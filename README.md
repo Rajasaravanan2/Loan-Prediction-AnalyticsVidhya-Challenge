@@ -10,12 +10,12 @@ Competition Link:
 **Data is having many missing values so missing values imputation was performed in following ways:**  
 
 - For categorical variables  
-1. Treat NAs as separate categories  
-2. Replace by mode  
+  1. Treat NAs as separate categories  
+  2. Replace by mode  
 
 - For continuous variables  
-1. Replace by mean of feature  
-2. Group average (Grouped by features found from one way ANOVA)  
+  1. Replace by mean of feature  
+  2. Group average (Grouped by features found from one way ANOVA)  
 
 **Feature Transformation:**  
 1. One hot encoding  
