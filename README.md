@@ -17,13 +17,13 @@ Competition Link:
 1. Replace by mean of feature  
 2. Group average (Grouped by features found from one way ANOVA)  
 
-**Feature Transformation: **  
+**Feature Transformation:**  
 1. One hot encoding  
 2. Normalization  
 3. 2 way interactions  
 4. Manually crafted features  
 
-**Models: **  
+**Models:**  
 1. Logistic Regression (Best model)  
 2. Random forest  
 3. Extra trees  
