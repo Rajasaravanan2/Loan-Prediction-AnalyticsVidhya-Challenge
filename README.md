@@ -1,6 +1,6 @@
 # Loan-Prediction-AnalyticsVidhya-Challenge
 
-Competition Link:
+Competition Link: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
 
 **Feature analysis:**  
 1. Chisquare test to find feature dependence for categorical variables  
